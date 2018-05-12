@@ -1,0 +1,33 @@
+_repo: Barty-Crusoe-and-His-Man-Saturday_40764
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40764-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Sequel to "The good wolf."
+gutenberg_issued: '2012-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wolves -- Juvenile fiction'
+- !lcsh 'Courtesy -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+title: Barty Crusoe and His Man Saturday
+url: http://www.gutenberg.org/ebooks/40764
